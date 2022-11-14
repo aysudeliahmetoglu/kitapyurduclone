@@ -1,0 +1,41 @@
+{
+  "Ayınyayınevi": {
+    "description": "Auto imported from components/ayınyayınevi.vue"
+  },
+  "Ayınyazarları": {
+    "description": "Auto imported from components/ayınyazarları.vue"
+  },
+  "CocukKitaplari": {
+    "description": "Auto imported from components/cocukKitaplari.vue"
+  },
+  "DünyaDilleri": {
+    "description": "Auto imported from components/dünya_dilleri.vue"
+  },
+  "Encoksatılanlar": {
+    "description": "Auto imported from components/encoksatılanlar.vue"
+  },
+  "Haftanınyayınevi": {
+    "description": "Auto imported from components/haftanınyayınevi.vue"
+  },
+  "HayatımızSınav": {
+    "description": "Auto imported from components/hayatımız_sınav.vue"
+  },
+  "Ilgigörenler": {
+    "description": "Auto imported from components/ilgigörenler.vue"
+  },
+  "Kategoriler": {
+    "description": "Auto imported from components/kategoriler.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/navbar.vue"
+  },
+  "NeOkusam": {
+    "description": "Auto imported from components/ne_okusam.vue"
+  },
+  "OyundanDahafazlası": {
+    "description": "Auto imported from components/oyundan_dahafazlası.vue"
+  },
+  "Slider": {
+    "description": "Auto imported from components/slider.vue"
+  }
+}
