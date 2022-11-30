@@ -28,12 +28,14 @@ export default {
 
     css: [
       "~/assets/css/style.css",
-    "~/assets/css/style2.css",
-    "~/assets/css/style3.css",
-    "~/assets/css/style4.css",
-    "~/assets/css/style5.css",
-    "~/assets/css/style6.css",
-    "~/assets/css/style7.css"
+      "~/assets/css/style2.css",
+      "~/assets/css/style3.css",
+      "~/assets/css/style4.css",
+      "~/assets/css/style5.css",
+      "~/assets/css/style6.css",
+      "~/assets/css/style7.css",
+      "~/assets/css/style8.css"
+
 
     ],
     

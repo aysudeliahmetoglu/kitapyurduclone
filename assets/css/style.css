@@ -14414,27 +14414,3 @@ button.ky-btn-cancel:hover {
  line-height:14px;
  margin-bottom:4px
 }
-.card-header,
-.card-text {
- display:flex;
- font-weight:700;
- justify-content:space-between
-}
-.card-header {
- font-size:20px;
- line-height:100%;
- margin-bottom:8px
-}
-.card-header .card-price {
- color:#cc8e00
-}
-.card-header .card-day {
- color:#c00;
- font-size:12px
-}
-.voucher {
- background:#fff7e5
-}
-.cheque {
- background:#f5ffeb
-}

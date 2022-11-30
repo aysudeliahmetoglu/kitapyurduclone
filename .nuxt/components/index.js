@@ -1,16 +1,22 @@
+export { default as Altkısım } from '../../components/altkısım.vue'
 export { default as Ayınyayınevi } from '../../components/ayınyayınevi.vue'
 export { default as Ayınyazarları } from '../../components/ayınyazarları.vue'
 export { default as CocukKitaplari } from '../../components/cocukKitaplari.vue'
+export { default as Coksatanveyenieklenenler } from '../../components/coksatanveyenieklenenler.vue'
 export { default as DünyaDilleri } from '../../components/dünya_dilleri.vue'
 export { default as Encoksatılanlar } from '../../components/encoksatılanlar.vue'
 export { default as Haftanınyayınevi } from '../../components/haftanınyayınevi.vue'
 export { default as HayatımızSınav } from '../../components/hayatımız_sınav.vue'
 export { default as Ilgigörenler } from '../../components/ilgigörenler.vue'
 export { default as Kategoriler } from '../../components/kategoriler.vue'
+export { default as Kelepirara } from '../../components/kelepirara.vue'
 export { default as Navbar } from '../../components/navbar.vue'
 export { default as NeOkusam } from '../../components/ne_okusam.vue'
 export { default as OyundanDahafazlası } from '../../components/oyundan_dahafazlası.vue'
+export { default as Populeraramalar } from '../../components/populeraramalar.vue'
+export { default as Populerkategoriler } from '../../components/populerkategoriler.vue'
 export { default as Slider } from '../../components/slider.vue'
+export { default as Yenicıkanlar } from '../../components/yenicıkanlar.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
