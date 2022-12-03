@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="home js-ajax" style="margin-left: 450px;">
+        <div class="home js-ajax" style="margin-left: 450px; max-width:750px;">
             <div class="box gray no-padding" id="js-anasayfa_acaba_ne_okusam">
                 <div class="box-heading padding">
                     <div class="ribbon-container">

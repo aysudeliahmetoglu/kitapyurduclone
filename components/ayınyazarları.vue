@@ -1,6 +1,6 @@
  <template>
     <div>
-        <div class="box gray no-padding" id="js-ana_sayfa_ayin_yazarlari" style="margin-left: 450px;">
+        <div class="box gray no-padding" style=" max-width:750px; margin-left: 450px;" id="js-ana_sayfa_ayin_yazarlari" >
             <div class="box-heading padding">
                 <div class="ribbon-container">
                     <div class="ribbon-text">Ayın Yazarları</div>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="home js-ajax"><div class="box gray no-padding"  style="margin-left: 450px;"  id="js-featured_list_637" >
+        <div class="home js-ajax" style="max-width: 1200px;" ><div class="box gray no-padding"  style="margin-left: 450px;"  id="js-featured_list_637" >
             <div class="box-heading padding">
                 <div class="ribbon-container">
                     <div class="ribbon-text">İlgi Görenler</div>

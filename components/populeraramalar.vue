@@ -1,7 +1,11 @@
 <template>
   <div>
-    <div class="home" style="display: block;position: absolute; margin-left: 1350px; margin-top:-3150px; z-index: 999; padding: 0;" id="js-bestseller">
-      <div class="box gray no-padding popular-terms">
+    <div
+      class="home"
+      style="display: block;position: absolute; margin-left:1210px; margin-top: -3640px;Max-width:200px;"
+      id="js-bestseller"
+    >
+      <div class="box gray no-padding popular-terms" >
         <div class="box-heading">
           <div class="ribbon-container">
             <div class="ribbon-text">Popüler Aramalar</div>

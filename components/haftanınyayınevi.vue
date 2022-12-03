@@ -1,9 +1,9 @@
 <template>
     <div>
-        <div class="home js-ajax">
+        <div class="home js-ajax" style="max-width: 1200px;">
             <div class="box gray featured-publisher-cr" style="margin-left: 450px;" id="js-weekly_featured_publisher_0">
-            <div class="box-heading featured-publisher-heading">
-                <div class="ribbon-container">
+            <div class="box-heading featured-publisher-heading" style="max-width: 1200px;">
+                <div class="ribbon-container" style="width: 200px;" >
                     <div class="ribbon-text">Haftanın Yayınevi</div>
                 </div>
             
@@ -20,8 +20,8 @@
                 <span class="tooltip-discount-date" data-title="14 Kasım - 21 Kasım tarihleri arasında geçerlidir."><i class="common-sprite info"></i></span>
             
                 <div class="heading-nav-horizontal">
-                    <a class="show-all" href="https://www.kitapyurdu.com/yayinevi/altinordu-yayinlari/7791.html" style="margin-left:-600px;">Tümünü Göster</a>
-                    <div class="heading-nav-arrows" ><a class="common-sprite prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true" style="margin-left:-510px;"></a><a class="common-sprite next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></a></div>
+                    <a class="show-all" href="https://www.kitapyurdu.com/yayinevi/altinordu-yayinlari/7791.html" style="margin-left:-140px;  float:left" >Tümünü Göster</a>
+                    <div class="heading-nav-arrows" style="margin-right:-500px;" ><a class="common-sprite prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true" style="margin-left:-510px;"></a><a class="common-sprite next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></a></div>
                 </div>
             
             </div>
@@ -37,9 +37,9 @@
                 <div class="swiper-scrollbar" style="opacity: 0; transition-duration: 400ms;"><div class="swiper-scrollbar-drag" style="transform: translate3d(0px, 0px, 0px); width: 150.136px;"></div></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
             </div>
-                    <div class="box-heading featured-publisher-heading next-week">
-                        <div class="ribbon-container">
-                            <div class="ribbon-text">Gelecek Haftanın Yayınevi</div>
+                    <div class="box-heading featured-publisher-heading next-week"  style="width: 735px;">
+                        <div class="ribbon-container" style="width: 400px;">
+                            <div class="ribbon-text" style="width: 300px;" >Gelecek Haftanın Yayınevi</div>
                         </div>
             
                             <a class="pub-image-cr" href="https://www.kitapyurdu.com/yayinevi/celik-yayinevi/485.html">

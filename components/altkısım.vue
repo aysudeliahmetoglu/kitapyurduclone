@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="footer js-obs js-obs-ever" id="footer">
+        <div class="footer js-obs js-obs-ever" id="footer" >
             <div class="app-social-cr">
                 <div class="app-social-wr">
                     <div class="app-wr">

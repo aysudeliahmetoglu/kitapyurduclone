@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="home js-ajax"><div class="box gray no-padding has-subtitle" id="js-bestseller_product_carousel_2" style="margin-left: 450px;" >
+        <div class="home js-ajax" style="max-width: 1200px;"><div class="box gray no-padding has-subtitle" id="js-bestseller_product_carousel_2" style="margin-left: 450px;" >
             <div class="box-heading padding">
                 <div class="ribbon-container">
                     <div class="ribbon-text">Çocuk Kitapları</div>

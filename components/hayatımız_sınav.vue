@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="home js-ajax"><div class="box gray no-padding has-subtitle" id="js-exam_books_product_carousel_3" style="margin-left: 450px;">
+        <div class="home js-ajax" style=" max-width:1200px;"><div class="box gray no-padding has-subtitle" id="js-exam_books_product_carousel_3" style="margin-left: 450px;">
             <div class="box-heading padding">
                 <div class="ribbon-container">
                     <div class="ribbon-text">Hayatımız Sınav</div>

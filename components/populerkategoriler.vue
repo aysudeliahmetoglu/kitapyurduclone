@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="home" style="display: block;position: absolute; margin-left: 1350px; margin-top:-3000px; z-index: 999; padding: 0;" >
+    <div class="home" style="display: block;position: absolute; margin-left:1210px; margin-top: -3400px;Max-width:200px;" >
       <div class="box gray no-padding popular-terms">
         <div class="box-heading">
           <div class="ribbon-container">

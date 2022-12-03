@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="box gray no-padding" id="js-anasayfa_kategoriler" style="margin-left: 450px;" >
+        <div class="box gray no-padding" style="max-width: 750px; margin-left: 450px;" id="js-anasayfa_kategoriler" >
             <div class="box-heading padding">
                 <div class="ribbon-container">
                     <div class="ribbon-text">Kategoriler</div>

@@ -1,8 +1,8 @@
 <template>
     <div>
-        <div class="box gray no-padding bargain-filter-cr" style="margin-left: 450px;">
-            <div class="box-heading">
-                <div class="ribbon-container">
+        <div class="box gray no-padding bargain-filter-cr" style="margin-left: 450px; max-width:900px; ">
+            <div class="box-heading" >
+                <div class="ribbon-container" >
                     <div class="ribbon-text">Kelepir Ara</div>
                 </div>
                 <div class="bargain-percentages" style="margin-right: 590px;">%90 %80 %70 %60 %50 indirimlerle!</div>
