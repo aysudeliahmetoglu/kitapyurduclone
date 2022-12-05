@@ -7,8 +7,8 @@
                         <div class="ribbon-text">Ne Okusam?</div>
                     </div>
                     <div class="heading-nav-horizontal">
-                        <a class="view-all" href="ne-okusam" data-title="Ne Okusam?" style="margin-left:-800px;">Tümünü Göster</a>
-                        <div class="heading-nav-arrows"><a class="common-sprite prev swiper-button-disabled" style="margin-left:-650px;" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"></a><a class="common-sprite next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></a></div>
+                        <a class="view-all" href="ne-okusam" data-title="Ne Okusam?" style="margin-left:500px;">Tümünü Göster</a>
+                        <div class="heading-nav-arrows"><a class="common-sprite prev swiper-button-disabled" style="margin-left:-10px;" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"></a><a class="common-sprite next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></a></div>
                     </div>
                 </div>
                 <div class="box-content html-display-wr" style="height:130px"><style>

@@ -6,8 +6,8 @@
                     <div class="ribbon-text">Kategoriler</div>
                 </div>
                 <div class="heading-nav-horizontal">
-                    <a class="view-all" href="index.php?route=product/category" data-title="Kategoriler">Tümünü Göster</a>
-                    <div class="heading-nav-arrows"><a class="common-sprite prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"></a><a class="common-sprite next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></a></div>
+                    <a class="view-all" href="index.php?route=product/category" data-title="Kategoriler" style="margin-left:630px; text-decoration:none; color: gray; margin-top: -20px; position: absolute; ">Tümünü Göster</a>
+                    <div class="heading-nav-arrows"><a class="common-sprite prev swiper-button-disabled" style="margin-left:-20px;"  tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"></a><a class="common-sprite next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></a></div>
                 </div>
             </div>
             <div class="box-content html-display-wr" style="height:162px"><style>
