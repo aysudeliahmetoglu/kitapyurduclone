@@ -20,10 +20,6 @@
       <Populeraramalar/>
       <Populerkategoriler/>
 
-
-      
-
-      
     </div> 
   </template> 
   <script> 
