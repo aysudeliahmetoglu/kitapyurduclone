@@ -1,0 +1,44 @@
+{
+    "products": [
+      {
+        "id": "451018",
+        "link1": "https://www.kitapyurdu.com/kitap/teskilati-mahsusanin-reisi-suleyman-askeri-bey/451018.html",
+        "img1": "https://img.kitapyurdu.com/v1/getImage/fn:5406264/wi:120/wh:true",
+        "title": "Teşkilat-ı Mahsusa'nın Reisi Süleyman Askeri Bey",
+        "price": "41,25"
+      },
+      {
+        "id": "527090",
+        "link1": "https://www.kitapyurdu.com/kitap/medeniyet-dili-olarak-turkce-dilci-felsefe-ile-baslangic-ve-yontem-arayisi/527090.html",
+        "img1": "https://img.kitapyurdu.com/v1/getImage/fn:11587452/wi:120/wh:true",
+        "title": "Medeniyet Dili Olarak Türkçe &amp; Dilci Felsefe ile Başlangıç ve Yöntem Arayışı",
+        "price": "42,35"
+      },
+      {
+        "id": "599995",
+        "link1": "https://www.kitapyurdu.com/kitap/dosta-dogru-butun-siirleri-4/599995.html",
+        "img1": "https://img.kitapyurdu.com/v1/getImage/fn:11482689/wi:120/wh:true",
+        "title": "Dosta Doğru / Bütün Şiirleri 4",
+        "price": "34,10"
+      }
+    ],
+    "ilgiGörenler": [
+        {
+        "id":"product-629380",
+        "link1":"https://www.kitapyurdu.com/kitap/siirin-kisa-tarihi/629380.html",
+        "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11618833/wi:120/wh:true",
+        "title":"Şiirin Kısa Tarihi",
+        "price":"86,40"
+
+        },
+        {
+            "id":"product-631083",
+            "link1":"https://www.kitapyurdu.com/kitap/dunyayi-sarsan-on-gun/631083.html",
+            "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11629909/wi:120/wh:true",
+            "title":"Dünyayı Sarsan On Gün",
+            "pr"
+        }
+        
+    ]
+}
+  
