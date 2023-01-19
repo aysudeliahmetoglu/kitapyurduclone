@@ -20,7 +20,7 @@
     <Populerkategoriler />
   </div>
 </template> 
-  <script>
+<script>
 import Slider from "../components/slider.vue";
 import Navbar from "../components/navbar.vue";
 
@@ -40,7 +40,7 @@ import altkısım from "../components/altkısım.vue";
 import Populeraramalar from "../components/populeraramalar.vue";
 import Populerkategoriler from "../components/populerkategoriler.vue";
 import Encoksatılanlar from "../components/encoksatılanlar.vue";
-
+import productCard from "~~/components/productCard.vue";
 export default {
   name: "IndexPage",
   components: {
@@ -60,7 +60,8 @@ export default {
     altkısım,
     Populeraramalar,
     Populerkategoriler,
-    ayınyazarları
+    ayınyazarları,
+    productCard
   }
 };
 </script>
