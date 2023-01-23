@@ -1,8 +1,36 @@
 {
     "store": [
         {   
-            "title": "zort",
-            "link1": "link.com"
+            "title": "KOLEKTİF KİTAP",
+            "link1": "index.php?route=product/publisher_products/all&amp;publisher_id=5237&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+            "img":"https://img.kitapyurdu.com/v1/getImage/fn:7018588/wi:200/wh:ac9ae1042"
+    },
+    {
+        "title":"DEX KİTAP",
+        "link1":"index.php?route=product/publisher_products/all&amp;publisher_id=4477&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:5723188/wi:200/wh:646b8f405"
+    },
+    {
+        "title":"YABANCI YAYINLARI",
+        "link1":"index.php?route=product/publisher_products/all&amp;publisher_id=5481&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:5848096/wi:200/wh:91b2e5bce"
+    },
+    {
+        "title":"MONOKL YAYINLARI" ,
+        "link1":"index.php?route=product/publisher_products/all&amp;publisher_id=4464&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:7513736/wi:200/wh:3b757691e"
+    },
+    {
+        "title":"OTTO",
+        "link1":"index.php?route=product/publisher_products/all&amp;publisher_id=2983&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:7740743/wi:200/wh:ee1f45700"
+
+    },
+    { 
+        "title":"OLİMPOS YAYINLARI",
+        "link1":"index.php?route=product/publisher_products/all&amp;publisher_id=3992&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:5646702/wi:200/wh:f9bf7532b"
+
     }
 
     ]

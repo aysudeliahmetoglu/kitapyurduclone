@@ -1,0 +1,36 @@
+{
+    "bestseller": [
+        {   
+            "title":"Gece Yarısı Kütüphanesi",
+            "title2":"Matt Haig",
+            "link1": "https://www.kitapyurdu.com/kitap/gece-yarisi-kutuphanesi/582550.html",
+            "img":"https://img.kitapyurdu.com/v1/getImage/fn:11631602/wi:50/wh:true"
+    },
+    {
+        "title":"Çeyiz",
+        "title2":"Hatice Kübra Tongar",
+        "link1":"https://www.kitapyurdu.com/kitap/ceyiz/627269.html",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:11607316/wi:50/wh:true"
+    },
+    {
+        "title":"Bir Aşk Masalı",
+        "title2":"Ahmet Ümit",
+        "link1":"https://www.kitapyurdu.com/kitap/bir-ask-masali/627772.html",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:11610438/wi:50/wh:true"
+    },
+    {
+        "title":"Uzaya Giden Tren" ,
+        "title2":"Mert Arık",
+        "link1":"https://www.kitapyurdu.com/kitap/uzaya-giden-tren/623243.html",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:11631570/wi:50/wh:true"
+    },
+    {
+        "title":"Var Mısın? &amp; Güçlü Bir Yaşam İçin Öneriler",
+        "title2":"Doğan Cüceloğlu",
+        "link1":"https://www.kitapyurdu.com/kitap/var-misin-guclu-bir-yasam-icin-oneriler/568760.html",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:11343251/wi:50/wh:true"
+
+    }
+
+    ]
+}

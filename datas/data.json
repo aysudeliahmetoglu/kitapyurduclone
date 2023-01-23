@@ -24,7 +24,7 @@
     ],
     "ilgiGörenler": [
         {
-        "id":"product-629380",
+        "id":"629380",
         "link1":"https://www.kitapyurdu.com/kitap/siirin-kisa-tarihi/629380.html",
         "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11618833/wi:120/wh:true",
         "title":"Şiirin Kısa Tarihi",
@@ -32,13 +32,266 @@
 
         },
         {
-            "id":"product-631083",
+            "id":"631083",
             "link1":"https://www.kitapyurdu.com/kitap/dunyayi-sarsan-on-gun/631083.html",
             "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11629909/wi:120/wh:true",
             "title":"Dünyayı Sarsan On Gün",
-            "pr"
+            "price":"60,00"
+        },
+        {
+          "id":"629301",
+          "link1":"https://www.kitapyurdu.com/kitap/global-piyasalar-dunu-bugunu-yarini/629301.html",
+          "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11618421/wi:120/wh:true",
+          "title":"Global Piyasalar",
+          "price":"50,85"
+        },
+        {
+          "id":"628733",
+          "link1":"https://www.kitapyurdu.com/kitap/her-gune-bir-yasa/628733.html",
+          "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11614907/wi:120/wh:true",
+          "title":"Her Güne Bir Yasa",
+          "price":"75,90"
         }
         
-    ]
+    ],
+    "cocukKitaplari":[
+      {
+        "id":"623243",
+        "link1":"https://www.kitapyurdu.com/kitap/uzaya-giden-tren/623243.html",
+        "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11631570/wi:120/wh:true",
+        "title":"Uzaya Giden Tren",
+        "price":"25,74"
+
+        },
+        {
+            "id":"10139",
+            "link1":"https://www.kitapyurdu.com/kitap/seker-portakali-ciltsiz/10139.html",
+            "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11462950/wi:120/wh:true",
+            "title":"Şeker Portakalı (Ciltsiz)",
+            "price":"24,75"
+        },
+        {
+          "id":"589761",
+          "link1":"https://www.kitapyurdu.com/kitap/benim-zurafam-ucabilir/589761.html",
+          "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11631569/wi:120/wh:true",
+          "title":"Benim Zürafam Uçabilir",
+          "price":"19,98"
+        },
+        {
+          "id":"629759",
+          "link1":"https://www.kitapyurdu.com/kitap/icimdeki-melodi/629759.html",
+          "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11621209/wi:120/wh:true",
+          "title":"İçimdeki Melodi",
+          "price":"49,10"
+
+        },
+        {
+          "id":"589761",
+          "link1":"https://www.kitapyurdu.com/kitap/benim-zurafam-ucabilir/589761.html",
+          "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11631569/wi:120/wh:true",
+          "title":"Benim Zürafam Uçabilir",
+          "price":"20,31"
+          
+        }
+        
+    ],
+    "cokSatanlar":[
+      {
+        "id":"556694",
+        "link1":"https://www.kitapyurdu.com/kitap/uzaya-giden-tren/623243.html",
+        "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11282764/wi:75/wh:true",
+        "title":"Son Cüret",
+        "price":"16,65"
+
+        },
+        {
+            "id":"592512",
+            "link1":"https://www.kitapyurdu.com/kitap/okcunun-yolu/592512.html",
+            "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11469968/wi:75/wh:true",
+            "title":"Okçu'nun Yolu",
+            "price":"21,30"
+        },
+        {
+          "id":"357530",
+          "link1":"https://www.kitapyurdu.com/kitap/snowden-dosyasi/357530.html",
+          "img1":"https://img.kitapyurdu.com/v1/getImage/fn:995493/wi:75/wh:true",
+          "title":"Snowden Dosyası",
+          "price":"27,99"
+        },
+        {
+          "id":"404129",
+          "link1":"https://www.kitapyurdu.com/kitap/evvel-zaman-icinde/404129.html",
+          "img1":"https://img.kitapyurdu.com/v1/getImage/fn:1927391/wi:75/wh:true",
+          "title":"Evvel Zaman İçinde",
+          "price":"36,41"
+
+        },
+        {
+          "id":"452503",
+          "link1":"https://www.kitapyurdu.com/kitap/eger-biz-biz-olmasaydik-olabilecegimiz-diger-her-sey/452503.html",
+          "img1":"https://img.kitapyurdu.com/v1/getImage/fn:5483880/wi:75/wh:true",
+          "title":"Eğer Biz, Biz Olmasaydık Olabileceğimiz Diğer Her Şey",
+          "price":"23,83"
+          
+        }
+      ],
+      "yeniEklenenler":[
+        {
+          "id":"365229",
+          "link1":"https://www.kitapyurdu.com/kitap/evlilik-ahlaki/365229.html",
+          "img1":"https://img.kitapyurdu.com/v1/getImage/fn:1015681/wi:75/wh:true",
+          "title":"Evlilik Ahlakı",
+          "price":"53,67"
+  
+          },
+          {
+              "id":"617487",
+              "link1":"https://www.kitapyurdu.com/kitap/brenda-joyce-romantik-kitaplar-koleksiyonu-takim-set-4-kitap/617487.html",
+              "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11573115/wi:75/wh:true",
+              "title":"Brenda Joyce Romantik Kitaplar Koleksiyonu Takım Set (4 Kitap)",
+              "price":"96,00"
+          },
+          {
+            "id":"615383",
+            "link1":"https://www.kitapyurdu.com/kitap/tarihi-romans-seti-ask-romanlari-takim-seti-4-kitap/615383.html",
+            "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11564092/wi:75/wh:true",
+            "title":"Tarihi Romans Seti Aşk Romanları Takım Seti (4 Kitap)",
+            "price":"96,00"
+          },
+          {
+            "id":"615299",
+            "link1":"https://www.kitapyurdu.com/kitap/ac-kalbini-tanriyla-butun-iliskimi-kestim-2-kitap-kutulu-ozel-set/615299.html",
+            "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11563748/wi:75/wh:true",
+            "title":"Aç Kalbini + Tanrı'yla Bütün İlişkimi Kestim (2 Kitap Kutulu Özel Set)",
+            "price":" 50,00"
+  
+          },
+          {
+            "id":"607785",
+            "link1":"https://www.kitapyurdu.com/kitap/karanligin-efendileri-serisi-takim-set-4-kitap/607785.html",
+            "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11518744/wi:75/wh:true",
+            "title":"Karanlığın Efendileri Serisi Takım Set (4 Kitap)",
+            "price":"96,00"
+            
+          }
+        ],
+        "dunyaDilleri":[
+          {
+            "id":"399723",
+            "link1":"https://www.kitapyurdu.com/kitap/ingilizce-bulmacalarla-kahve-molasi-1/399723.html",
+            "img1":"https://img.kitapyurdu.com/v1/getImage/fn:2885419/wi:120/wh:true",
+            "title":"İngilizce Bulmacalarla Kahve Molası -1",
+            "price":"19,50"
+    
+            },
+            {
+                "id":"617487",
+                "link1":"https://www.kitapyurdu.com/kitap/nineteen-eightyfour-1984/567995.html",
+                "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11340163/wi:120/wh:true",
+                "title":"Nineteen Eighty-Four - 1984",
+                "price":"33,80"
+            },
+            {
+              "id":"429188",
+              "link1":"https://www.kitapyurdu.com/kitap/fahrenheit-451/429188.html",
+              "img1":"https://img.kitapyurdu.com/v1/getImage/fn:7150718/wi:120/wh:true",
+              "title":"Fahrenheit 451",
+              "price":"160,55"
+            },
+            {
+              "id":"388147",
+              "link1":"https://www.kitapyurdu.com/kitap/the-little-prince/388147.html",
+              "img1":"https://img.kitapyurdu.com/v1/getImage/fn:1152568/wi:120/wh:true",
+              "title":"The Little Prince",
+              "price":" 23,40"
+    
+            },
+            {
+              "id":"567997",
+              "link1":"https://www.kitapyurdu.com/kitap/animal-farm/567997.html",
+              "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11340168/wi:120/wh:true",
+              "title":"Animal Farm",
+              "price":"22,10"
+              
+            }
+          ],
+          "hayatimizSinav":[
+            {
+              "id":"506709",
+              "link1":"https://www.kitapyurdu.com/kitap/2022-kpss-5li-deneme-seti/506709.html",
+              "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11449087/wi:120/wh:true",
+              "title":"2022 KPSS 5’li Deneme Seti",
+              "price":" 62,64"
+      
+              },
+              {
+                  "id":"569356",
+                  "link1":"https://www.kitapyurdu.com/kitap/2021-kpss-egitim-bilimleri-sinavi/569356.html",
+                  "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11346289/wi:120/wh:true",
+                  "title":"2021 KPSS Eğitim Bilimleri Sınavı",
+                  "price":"103,60"
+              },
+              {
+                "id":"568982",
+                "link1":"https://www.kitapyurdu.com/kitap/kpss-ales-dgs-matematix-soru-fasikulleri-2/568982.html",
+                "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11344674/wi:120/wh:true",
+                "title":"KPSS ALES DGS MatematiX Soru Fasikülleri 2",
+                "price":"34,02"
+              },
+              {
+                "id":"568907",
+                "link1":"https://www.kitapyurdu.com/kitap/2021-kpss-tarihte-son-nokta-21-cozumlu-deneme/568907.html",
+                "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11344301/wi:120/wh:true",
+                "title":"2021 KPSS Tarihte Son Nokta 21 Çözümlü Deneme",
+                "price":" 32,50"
+      
+              },
+              {
+                "id":"466163",
+                "link1":"https://www.kitapyurdu.com/kitap/tecrube-15x15-cozumlu-paragraf-denemeleri/466163.html",
+                "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11495652/wi:120/wh:true",
+                "title":"Tecrübe 15x15 Çözümlü Paragraf Denemeleri",
+                "price":"19,39"
+              }
+            ],
+            "oyundanDahaFazlasi":[
+              {
+                "id":"489947",
+                "link1":"https://www.kitapyurdu.com/oyuncak/montessori-ahsap-zeka-oyunlari-wsymbol-18-xxl/489947.html",
+                "img1":"https://img.kitapyurdu.com/v1/getImage/fn:9552086/wi:120/wh:true",
+                "title":"Montessori Ahşap Zeka Oyunları / w-Symbol 18 (XXL)",
+                "price":" 87,75"
+        
+                },
+                {
+                    "id":"467427",
+                    "link1":"https://www.kitapyurdu.com/oyuncak/montessori-ahsap-zeka-oyunlari-wtetrisk-14/467427.html",
+                    "img1":"https://img.kitapyurdu.com/v1/getImage/fn:8092781/wi:120/wh:true",
+                    "title":"Montessori Ahşap Zeka Oyunları / w-Tetrisk 14",
+                    "price":" 60,01"
+                },
+                {
+                  "id":"467424",
+                  "link1":"https://www.kitapyurdu.com/oyuncak/montessori-ahsap-zeka-oyunlari-wsquare-14/467424.html",
+                  "img1":"https://img.kitapyurdu.com/v1/getImage/fn:8092685/wi:120/wh:true",
+                  "title":"Montessori Ahşap Zeka Oyunları / w-Square 14",
+                  "price":"90,00"
+                },
+                {
+                  "id":"401302",
+                  "link1":"https://www.kitapyurdu.com/kitap/ilk-50-sozcuk-egitici-flash-card/401302.html",
+                  "img1":"https://img.kitapyurdu.com/v1/getImage/fn:11446756/wi:120/wh:true",
+                  "title":"İlk 50 Sözcük (Eğitici Flash Card)",
+                  "price":" 33,10 "
+        
+                },
+                {
+                  "id":"369977",
+                  "link1":"https://www.kitapyurdu.com/oyuncak/scrabble-original-turkcey9611/369977.html",
+                  "img1":"https://img.kitapyurdu.com/v1/getImage/fn:10836846/wi:120/wh:true",
+                  "title":"Scrabble Original Türkçe(Y9611)",
+                  "price":"198,72"
+                }
+              ]
 }
   

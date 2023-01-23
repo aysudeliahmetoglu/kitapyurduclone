@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {   
+            "title": " Prof. Dr. İsmail Tunalı",
+            "link1": "index.php?route=product/manufacturer_products&amp;manufacturer_id=3320&amp;filter_publisher=9793&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+            "img":"https://img.kitapyurdu.com/v1/getImage/fn:11637210/wi:200/wh:63974347b"
+    },
+    {
+        "title":" Falih Rıfkı Atay",
+        "link1":"index.php?route=product/manufacturer_products&amp;manufacturer_id=27742&amp;filter_publisher=583&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:9831914/wi:200/wh:31a9319a7"
+    },
+    {
+        "title":" Tülin Kozikoğlu",
+        "link1":"index.php?route=product/manufacturer_products&amp;manufacturer_id=57944&amp;filter_publisher=8598&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:11490393/wh:bb64996eb"
+    },
+    {
+        "title":"Saliha Erdim" ,
+        "link1":"index.php?route=product/manufacturer_products&amp;manufacturer_id=146611&amp;filter_publisher=53&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:11637212/wi:200/wh:e173cfd43"
+    },
+    {
+        "title":" Furkan Çalışkan",
+        "link1":"index.php?route=product/manufacturer_products&amp;manufacturer_id=51681&amp;filter_publisher=9150&amp;sort=purchased_365&amp;order=DESC&amp;filter_in_stock=1",
+        "img":"https://img.kitapyurdu.com/v1/getImage/fn:11637213/wi:200/wh:945a1e0fb"
+
+    }
+
+    ]
+}
