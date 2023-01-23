@@ -41,6 +41,14 @@ import Populeraramalar from "../components/populeraramalar.vue";
 import Populerkategoriler from "../components/populerkategoriler.vue";
 import Encoksatılanlar from "../components/encoksatılanlar.vue";
 import productCard from "~~/components/productCard.vue";
+if (process.client) {
+  window.addEventListener('load', () => {
+    if (!('serviceWorker' in navigator)) {
+      throw new Error('serviceWorker is not supported in current browser!')
+    }
+    navigator.serviceWorker.register('/sw.js')
+  })
+}
 export default {
   name: "IndexPage",
   components: {
@@ -64,4 +72,5 @@ export default {
     productCard
   }
 };
+
 </script>
