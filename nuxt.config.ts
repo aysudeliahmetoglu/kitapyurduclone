@@ -6,9 +6,14 @@ export default defineNuxtConfig({
   modules: [
     // ...
     "@pinia/nuxt",
-    "@nuxtjs/pwa",
+    '@kevinmarrec/nuxt-pwa'
   ],
   
+  pwa: {
+    workbox: {
+      enabled: true
+    }
+  },
   
   
   
