@@ -136,7 +136,7 @@
 
 <script setup>
 
-const { data: data } = await useFetch('http://localhost:8000/books/books/best/')
+const { data: data } = await useFetch('http://localhost:8000/books/best/')
 console.log(data)
 
 </script>

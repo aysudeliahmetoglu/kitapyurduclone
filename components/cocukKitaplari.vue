@@ -69,7 +69,7 @@
 
 <script setup>
 
-const { data: data } = await useFetch('http://localhost:8000/books/books/kid/')
+const { data: data } = await useFetch('http://localhost:8000/books/kid/')
 console.log(data)
 
 </script>
